@@ -39,10 +39,21 @@ I'm a Web Developer focused on building scalable, efficient, and user-friendly w
 
 <p>
   <a href="https://github.com/Habibullah-KH" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" />
+    <img 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
+      alt="GitHub" 
+      height="30" 
+      style="filter: invert(1);"
+    />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/habibullah-khandokar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" />
+    <img 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
+      alt="LinkedIn" 
+      height="30" 
+      style="filter: invert(1);"
+    />
   </a>
 </p>
+
