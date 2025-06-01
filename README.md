@@ -1,19 +1,48 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQGsFgT_Ucmpfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719846559606?e=1754524800&v=beta&t=4EaOEUyh_pdWA5FKlEyltV4e2Hra3h9f9JlH1vk-SdY)
-### Hi there 👋, I'm Habibullah
-#### Web Developer
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQGsFgT_Ucmpfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719846559606?e=1754524800&v=beta&t=4EaOEUyh_pdWA5FKlEyltV4e2Hra3h9f9JlH1vk-SdY)
+### 👋 Hi there, I'm Habibullah Khondoker
 
-I'm Habibullah Khondoker. My core is based on JavaScript, and I am skilled in the MERN stack. I try to build sustainable and well-performing web applications. My goal is to solve real-world problems with efficient solutions while continuously learning and adapting to modern web technologies.
-
-Currently studying Computer Science and Engineering at IUBAT (International University of Business Agriculture and Technology), I'm interested in innovations like AI-powered web tools and automation.
-
-Skills: REACT / Next.js / JS / HTML / CSS
-
-- 🌱 I’m currently learning Typescript 
+#### 💻 Web Developer | MERN Stack Enthusiast
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Habibullah-KH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/habibullah-khandokar//)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH)](https://github.com/anuraghazra/github-readme-stats)
+I'm a passionate Web Developer focused on building scalable, efficient, and user-friendly web applications using the **MERN Stack**. I enjoy solving real-world problems and always strive to stay updated with the latest trends in web technologies.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Habibullah-KH)  
+🎓 Currently pursuing **B.Sc. in Computer Science & Engineering** at **IUBAT** (International University of Business Agriculture and Technology).  
+🚀 Exploring AI-powered tools, automation, and the future of smart web development.
 
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React.js, Next.js, Node.js, Express.js
+- **Database**: MongoDB
+- **Learning**: TypeScript
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=github_dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=github_dark" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Habibullah-KH&theme=github-dark-blue" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://github.com/Habibullah-KH" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/habibullah-khandokar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" />
+  </a>
+</p>
