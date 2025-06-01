@@ -8,7 +8,6 @@ Currently studying Computer Science and Engineering at IUBAT (International Univ
 
 Skills: REACT / Next.js / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Typescript 
 
 
