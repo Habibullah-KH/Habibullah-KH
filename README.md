@@ -9,7 +9,6 @@
 I'm a Web Developer focused on building scalable, efficient, and user-friendly web applications using the **MERN Stack**. I enjoy solving real-world problems and always strive to stay updated with the latest trends in web technologies.
 
 🎓 Currently pursuing **B.Sc. in Computer Science & Engineering** at **IUBAT** (International University of Business Agriculture and Technology).  
-🚀 Exploring AI-powered tools, automation, and the future of smart web development.
 
 ---
 
