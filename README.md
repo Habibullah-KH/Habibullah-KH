@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQGsFgT_Ucmpfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719846559606?e=1754524800&v=beta&t=4EaOEUyh_pdWA5FKlEyltV4e2Hra3h9f9JlH1vk-SdY)
+![Banner](https://www.linkedin.com/in/habibullah-khandokar/overlay/background-image/)
 
 ### 👋 Hi there, I'm Habibullah Khondoker
 
