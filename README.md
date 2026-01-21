@@ -1,4 +1,4 @@
-![Banner][url=https://ibb.co.com/MkBDt2rH][img]https://i.ibb.co.com/8gYDfKqw/1719846559606.jpg[/img][/url]
+![Banner](https://ibb.co.com/MkBDt2rH][img]https://i.ibb.co.com/8gYDfKqw/1719846559606.jpg)
 
 ### 👋 Hi there, I'm Habibullah Khondoker
 
