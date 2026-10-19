@@ -1,36 +1,11 @@
 ![Banner](https://i.ibb.co.com/pjhvM0cT/1719846559606.jpg)
 
-### 👋 Hi there, I'm Habibullah Khondoker
-
-##### 💻 Web Developer | MERN Stack
+Hi there 👋,<br><br>I'm Habibullah Khondoker coding has been my creative outlet and my way of exploring the world. Late nights often find me deep in code, chasing ideas and building things that excite me.  Thanks for stopping by my GitHub!<br><br>
 
 ---
 
-I'm a Web Developer focused on building scalable, efficient, and user-friendly web applications using the **MERN Stack**. I enjoy solving real-world problems and always strive to stay updated with the latest trends in web technologies.
-
-🎓 Currently pursuing **B.Sc. in Computer Science & Engineering** at **IUBAT** (International University of Business Agriculture and Technology).  
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages**: JavaScript, HTML, CSS  
-- **Frameworks/Libraries**: React.js, Next.js, Node.js, Express.js  
-- **Database**: MongoDB  
-- **Learning**: TypeScript  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&hide_border=true&theme=transparent" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&hide_border=true&theme=transparent" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Habibullah-KH&hide_border=true&theme=transparent" />
-</p>
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
