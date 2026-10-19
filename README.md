@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Habibullah%20Khondoker&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Night-Owl%20Coder&descSize=18&descAlignY=58" alt="Banner" width="100%" />
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:9333ea&height=200&section=header&text=Habibullah%20Khondoker&fontSize=46&fontColor=ffffff&fontAlignY=50" alt="Banner" width="100%" />
+
+  
 # Hi there 👋, I'm Habibullah Khondoker
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;Full-Stack+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
