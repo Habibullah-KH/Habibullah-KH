@@ -1,8 +1,5 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:9333ea&height=200&section=header&text=Habibullah%20Khondoker&fontSize=46&fontColor=ffffff&fontAlignY=50" alt="Banner" width="100%" />
 
-  
-# Hi there 👋, I'm Habibullah Khondoker
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;" alt="Typing SVG" />
 
 </div>
@@ -11,7 +8,7 @@
 
 ## About Me
 
-Coding has been my creative outlet and my way of exploring the world. Late nights often find me deep in code, chasing ideas and building things that excite me.
+Hi there 👋, I'm Habibullah Khondoker, Coding has been my creative outlet and my way of exploring the world. Late nights often find me deep in code, chasing ideas and building things that excite me.
 
 Thanks for stopping by my GitHub!
 
@@ -47,14 +44,7 @@ Thanks for stopping by my GitHub!
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" width="full" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" width="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img width="full" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
 
 ---
 
