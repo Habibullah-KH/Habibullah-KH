@@ -41,7 +41,7 @@ Thanks for stopping by my GitHub!
 
 <div align="center"> 
 <img height="90%" width="40%" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
-<img height="90% width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="100% width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <img height="100%" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
 
 ---
@@ -53,7 +53,6 @@ Thanks for stopping by my GitHub!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
