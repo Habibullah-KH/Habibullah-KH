@@ -3,10 +3,7 @@
   
 # Hi there 👋, I'm Habibullah Khondoker
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;Full-Stack+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&logo=github&label=Followers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;" alt="Typing SVG" />
 
 </div>
 
@@ -52,10 +49,10 @@ Thanks for stopping by my GitHub!
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" width="full" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="170" width="full" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="full" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
