@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:9333ea&height=200&section=header&text=Habibullah%20Khondoker&fontSize=46&fontColor=ffffff&fontAlignY=50" alt="Banner" width="100%" />
+<div align="center"> <img src="Habibullah.gif" alt="Banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;" alt="Typing SVG" />
 
