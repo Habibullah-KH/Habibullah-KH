@@ -1,8 +1,5 @@
-<div align="center">
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Habibullah%20Khondoker&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Night-Owl%20Coder&descSize=18&descAlignY=58" alt="Banner" width="100%" />
 # Hi there 👋, I'm Habibullah Khondoker
-
-**Full-Stack Developer · Builder · Night-Owl Coder**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;Full-Stack+%7C+TypeScript+%7C+Go" alt="Typing SVG" />
 
@@ -13,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Coding has been my creative outlet and my way of exploring the world. Late nights often find me deep in code, chasing ideas and building things that excite me.
 
@@ -21,7 +18,7 @@ Thanks for stopping by my GitHub!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
