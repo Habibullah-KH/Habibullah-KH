@@ -15,6 +15,7 @@ Thanks for stopping by my GitHub!
 ---
 
 ## Tech Stack
+<div width="40%">
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,15 +33,16 @@ Thanks for stopping by my GitHub!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
 ## GitHub Stats
 
 <div align="center"> 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
 
 ---
 
