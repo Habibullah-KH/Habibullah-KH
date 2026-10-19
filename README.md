@@ -40,9 +40,9 @@ Thanks for stopping by my GitHub!
 ## GitHub Stats
 
 <div align="center"> 
-<img height="100%" width="40%" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
-<img height="100% width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<img height="150%" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
+<img height="90%" width="40%" src="https://github-readme-stats.vercel.app/api?username=Habibullah-KH&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> 
+<img height="90% width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habibullah-KH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="100%" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Habibullah-KH&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
 
 ---
 
