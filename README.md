@@ -15,23 +15,5 @@ Hi there 👋,<br><br>I'm Habibullah Khondoker coding has been my creative outle
 
 ### Connect with Me
 
-<p>
-  <a href="https://github.com/Habibullah-KH" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
-      alt="GitHub" 
-      height="30" 
-      style="filter: invert(1);"
-    />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/habibullah-khandokar/" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
-      alt="LinkedIn" 
-      height="30" 
-      style="filter: invert(1);"
-    />
-  </a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdhabib.khndoker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/habibullah-khandokar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:habibullahkhandokar01@gmail.com) 
 
