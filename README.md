@@ -1,6 +1,4 @@
-<div align="center"> <img src="Habibullah.gif" alt="Banner" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+ideas+into+code;Building+things+that+excite+me;" alt="Typing SVG" />
+<div align="center"> <img src="https://media.licdn.com/dms/image/v2/D5616AQGsFgT_Ucmpfg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719846559606?e=1793836800&v=beta&t=OjS8riawmBCD71XtsGaje3d92XDBXLEELwB5CivtuV0" alt="Banner" width="100%" />
 
 </div>
 
