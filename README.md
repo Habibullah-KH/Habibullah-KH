@@ -1,5 +1,5 @@
-<div align="center"> <img src="https://media.licdn.com/dms/image/v2/D5616AQGsFgT_Ucmpfg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719846559606?e=1793836800&v=beta&t=OjS8riawmBCD71XtsGaje3d92XDBXLEELwB5CivtuV0" alt="Banner" width="100%" />
-
+<div align="center"> 
+  <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/9b142d5c-3940-4bdb-b8f7-69da953f48a0" />
 </div>
 
 ---
